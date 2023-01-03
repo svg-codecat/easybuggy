@@ -32,4 +32,4 @@ Actions:
     # Defines the action's properties.
     Configuration:
       # Required; type: string; description: Find this in your Mend account in the CI/CD Integration section
-      MendLicenseKey: SECRET_NAME
+      MendLicenseKey: ${Secrets.MendLicenseKey}
