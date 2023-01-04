@@ -33,3 +33,4 @@ Actions:
     Configuration:
       # Required; type: string; description: Find this in your Mend account in the CI/CD Integration section
       MendLicenseKey: ${Secrets.MendLicenseKey}
+      
