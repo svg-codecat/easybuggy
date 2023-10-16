@@ -12,7 +12,7 @@ Triggers:
 Actions:
   MendSCA_08:
     # Identifies the action. Do not modify this value.
-    Identifier: mend/mendsca@v1
+    Identifier: mend/mendsca@v1.0.9
 
     # Specifies the source and/or artifacts to pass to the action as input.
     Inputs:
